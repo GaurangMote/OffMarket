@@ -168,7 +168,7 @@
 #contact::before{
     content: "";
     position: absolute;
-    background: url('../contact.jpg') no-repeat center center/cover;
+    background: url('contact.jpg') no-repeat center center/cover;
     height: 45%;
     width: 100%;
     z-index: -1;
